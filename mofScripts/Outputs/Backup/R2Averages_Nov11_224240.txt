@@ -1,0 +1,1 @@
+{'Feature': ['SelfdiffusionofN2cm2sinfDilute'], 'Combination': [0.6059217536654463]}
