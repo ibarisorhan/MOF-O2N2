@@ -1,6 +1,0 @@
-{'SelfdiffusionofN2cm2sinfDilute_Actual_1': array([1.65802e-05, 1.38458e-05, 4.15375e-04, ..., 2.49954e-05,
-       5.37307e-05, 3.04451e-05]), 'SelfdiffusionofN2cm2sinfDilute_Actual_2': array([5.82579e-05, 9.24934e-05, 4.25385e-05, ..., 1.60277e-04,
-       2.71103e-05, 2.72278e-04]), 'SelfdiffusionofN2cm2sinfDilute_Actual_3': array([1.92462e-05, 3.31829e-05, 1.35804e-04, ..., 8.32503e-05,
-       9.89680e-05, 1.11721e-04]), 'SelfdiffusionofN2cm2sinfDilute_Actual_4': array([4.77893e-05, 4.73966e-04, 2.91863e-04, ..., 3.85721e-04,
-       3.45626e-04, 2.84978e-04]), 'SelfdiffusionofN2cm2sinfDilute_Actual_5': array([3.97768e-04, 3.85721e-04, 3.45626e-04, ..., 4.37549e-05,
-       7.77522e-05, 4.31027e-04])}

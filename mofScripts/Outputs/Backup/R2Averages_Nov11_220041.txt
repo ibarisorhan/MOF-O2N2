@@ -1,1 +1,0 @@
-{'Feature': ['SelfdiffusionofN2cm2s'], 'Combination': [0.5951712510804686]}

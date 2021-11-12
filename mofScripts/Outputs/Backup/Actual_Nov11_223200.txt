@@ -1,6 +1,0 @@
-{'SelfdiffusionofO2cm2sinfDilute_Actual_1': array([1.42163e-05, 1.59277e-05, 3.98662e-04, ..., 4.47553e-05,
-       5.00159e-05, 1.21553e-04]), 'SelfdiffusionofO2cm2sinfDilute_Actual_2': array([6.41494e-05, 8.50539e-05, 6.49419e-05, ..., 1.06115e-04,
-       1.08525e-04, 1.58790e-04]), 'SelfdiffusionofO2cm2sinfDilute_Actual_3': array([1.15708e-04, 2.04187e-04, 1.36256e-04, ..., 7.06569e-05,
-       1.21821e-04, 4.02556e-04]), 'SelfdiffusionofO2cm2sinfDilute_Actual_4': array([8.11197e-05, 1.95010e-04, 4.33110e-05, ..., 4.41340e-04,
-       3.81753e-04, 4.30286e-04]), 'SelfdiffusionofO2cm2sinfDilute_Actual_5': array([4.30286e-04, 4.58164e-04, 3.66725e-04, ..., 8.96635e-05,
-       1.14885e-04, 4.04897e-04])}
